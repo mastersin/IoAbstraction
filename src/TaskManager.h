@@ -29,7 +29,7 @@
 //
 // default off, uncomment line below to enable - test carefully!!
 //
-// #define _TASKMGR_OVERRIDE_DELAY_ 1
+#define _TASKMGR_OVERRIDE_DELAY_ 1
 //
 #if defined(_TASKMGR_OVERRIDE_DELAY_)
 
